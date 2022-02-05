@@ -85,53 +85,597 @@ There will be one in-class midterm exam. There will also be a comprehensive fina
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Midterm exam | 20% |
-| Problem sets | 40% |
-| Final exam | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm exam
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}} Equatorial coordinates and sidereal time {{< br >}}{{< br >}}  | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} Galactic coordinates {{< br >}}{{< br >}} Distances to stars {{< br >}}{{< br >}}  | &nbsp; |
-| 3 | Magnitudes (apparent and absolute) and color indices | Problem set 1 due |
-| 4 |  {{< br >}}{{< br >}} Spectral classification {{< br >}}{{< br >}} The Kepler problem {{< br >}}{{< br >}}  | &nbsp; |
-| 5 | Parametric solution to Kepler | &nbsp; |
-| 6 |  {{< br >}}{{< br >}} Masses of stars {{< br >}}{{< br >}} Mass radius relation {{< br >}}{{< br >}}  | &nbsp; |
-| 7 | Mass measurements for exoplanets and our black hole | Problem set 2 due |
-| 8 | Telescopes | &nbsp; |
-| 9 | Polytropic stars | &nbsp; |
-| 10 |  {{< br >}}{{< br >}} Classical and quantum statistics {{< br >}}{{< br >}} The Saha equation {{< br >}}{{< br >}}  | &nbsp; |
-| 11 |  {{< br >}}{{< br >}} Equations of state {{< br >}}{{< br >}} Application of Lane-Emden solution: White dwarfs {{< br >}}{{< br >}}  | Problem set 3 due |
-| 12 | Simple results for the sun and other stars | &nbsp; |
-| 13 | Radiative transport | &nbsp; |
-| 14 |  {{< br >}}{{< br >}} Opacities {{< br >}}{{< br >}} Scaling laws {{< br >}}{{< br >}} Convection {{< br >}}{{< br >}}  | Problem set 4 due |
-| 15 |  {{< br >}}{{< br >}} Energy generation {{< br >}}{{< br >}} Coulomb penetration factor {{< br >}}{{< br >}}  | &nbsp; |
-| 16 | Nuclear "burning" in the sun and other stars | &nbsp; |
-| 17 | Evolution of stars of low, intermediate and high mass | Problem set 5 due |
-| 18 | Stellar atmospheres | &nbsp; |
-| 19 | Lines in stellar atmospheres | &nbsp; |
-| 20 | In-class exam | Problem set 6 due |
-| 21 | Introduction to the interstellar medium | &nbsp; |
-| 22 | Photoionized nebulae (H II regions and planetaries) | &nbsp; |
-| 23 | Supernovae and shocks | &nbsp; |
-| 24 | Adiabatic supernova shocks | Problem set 7 due |
-| 25 | Galaxy morphology | &nbsp; |
-| 26 |  {{< br >}}{{< br >}} Quantifiable properties of galaxies {{< br >}}{{< br >}} Collisional relaxation times {{< br >}}{{< br >}}  | &nbsp; |
-| 27 | Collisionless Boltzmann equation (cartesian) and its moments | Problem set 8 due |
-| 28 | Boltzmann and the 4 jeans equations (spherical) | &nbsp; |
-| 29 | Galaxy disks: Rotation and epicyclic motion | &nbsp; |
-| 30 | Galaxy models: Potentials, orbits, and distribution functions | Problem set 9 due |
-| 31 | Clusters of galaxies | &nbsp; |
-| 32 |  {{< br >}}{{< br >}} Evidence for the expansion and homegeneity of the universe {{< br >}}{{< br >}} Newtonian derivation of Friedmann universe {{< br >}}{{< br >}}  | &nbsp; |
-| 33 | Galaxy formation | Problem set 10 due |
-| 34 | Friedman-Robertson-Walker metric | &nbsp; |
-| 35 | Friedman equation with radiation and other stuff | &nbsp; |
-| 36 | Supernovae and cosmic acceleration | Problem set 11 due |
-| 37 | Recombination and helium production | &nbsp; |
-| 38 | Fluctuations in the cosmic microwave background | &nbsp; |
-| &nbsp; | Final exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction
+
+Equatorial coordinates and sidereal time
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Galactic coordinates
+
+Distances to stars
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Magnitudes (apparent and absolute) and color indices
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Spectral classification
+
+The Kepler problem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Parametric solution to Kepler
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Masses of stars
+
+Mass radius relation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Mass measurements for exoplanets and our black hole
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Telescopes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Polytropic stars
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Classical and quantum statistics
+
+The Saha equation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Equations of state
+
+Application of Lane-Emden solution: White dwarfs
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Simple results for the sun and other stars
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Radiative transport
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Opacities
+
+Scaling laws
+
+Convection
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Energy generation
+
+Coulomb penetration factor
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear "burning" in the sun and other stars
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Evolution of stars of low, intermediate and high mass
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Stellar atmospheres
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Lines in stellar atmospheres
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+In-class exam
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the interstellar medium
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Photoionized nebulae (H II regions and planetaries)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Supernovae and shocks
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Adiabatic supernova shocks
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Galaxy morphology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quantifiable properties of galaxies
+
+Collisional relaxation times
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Collisionless Boltzmann equation (cartesian) and its moments
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Boltzmann and the 4 jeans equations (spherical)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Galaxy disks: Rotation and epicyclic motion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Galaxy models: Potentials, orbits, and distribution functions
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Clusters of galaxies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Evidence for the expansion and homegeneity of the universe
+
+Newtonian derivation of Friedmann universe
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Galaxy formation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 10 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Friedman-Robertson-Walker metric
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Friedman equation with radiation and other stuff
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Supernovae and cosmic acceleration
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 11 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Recombination and helium production
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+Fluctuations in the cosmic microwave background
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

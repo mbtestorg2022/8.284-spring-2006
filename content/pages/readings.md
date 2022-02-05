@@ -26,44 +26,647 @@ Schechter, Paul. _8.902 Notes on Cosmology_ (![This resource may not render corr
 Readings by Session
 -------------------
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}} Equatorial coordinates and sidereal time {{< br >}}{{< br >}}  | Mihalas, Dimitri, and James Binney. [_Galactic Astronomy_](http://www.seds.org/~spider/spider/ScholarX/coords.html). San Francisco, CA: W.H. Freeman, 1981, chapter 2. ISBN: 9780716712800. |
-| 2 |  {{< br >}}{{< br >}} Galactic coordinates {{< br >}}{{< br >}} Distances to stars {{< br >}}{{< br >}}  | Mihalas, Dimitri, and James Binney. [_Galactic Astronomy_](https://www.amazon.com/Galactic-Astronomy-Structure-Kinematics-Galaxies/dp/0716712806). San Francisco, CA: W.H. Freeman, 1981, chapter 2. ISBN: 9780716712800. |
-| 3 | Magnitudes (apparent and absolute) and color indices | Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay45/ay45toc.html). Chapters 2, 3.5, 4.1, and 4.2 through 4.2.5. |
-| 4 |  {{< br >}}{{< br >}} Spectral classification {{< br >}}{{< br >}} The Kepler problem {{< br >}}{{< br >}}  | Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay45/ay45toc.html). Chapters 2, 3.5, 4.1, and 4.2 through 4.2.5. |
-| 5 | Parametric solution to Kepler | Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay45/ay45toc.html). Chapters 2, 3.5, 4.1, and 4.2 through 4.2.5. |
-| 6 |  {{< br >}}{{< br >}} Masses of stars {{< br >}}{{< br >}} Mass radius relation {{< br >}}{{< br >}}  | Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay45/ay45toc.html). Chapters 2, 3.5, 4.1, and 4.2 through 4.2.5. |
-| 7 | Guest lecture: Mass measurements for exoplanets and our black hole | Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay45/ay45toc.html). Chapters 2, 3.5, 4.1, and 4.2 through 4.2.5. |
-| 8 | Guest lecture: Telescopes | Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay45/ay45toc.html). Chapters 2, 3.5, 4.1 and 4.2 through 4.2.5. |
-| 9 | Polytropic stars | Clayton. Sections 2-4. |
-| 10 |  {{< br >}}{{< br >}} Classical and quantum statistics {{< br >}}{{< br >}} The Saha equation {{< br >}}{{< br >}}  | Hansen, and Kawaler. Sections 7.1-7.2.2. |
-| 11 |  {{< br >}}{{< br >}} Equations of state {{< br >}}{{< br >}} Application of Lane-Emden solution: White dwarfs {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Hansen, and Kawaler. Sections 7.1-7.2.2. {{< br >}}{{< br >}} Clayton. Sections 2-4. {{< br >}}{{< br >}}  |
-| 12 | Simple results for the sun and other stars |  {{< br >}}{{< br >}} Hansen, and Kawaler. Sections 7.1-7.2.2. {{< br >}}{{< br >}} Clayton. Sections 2-4. {{< br >}}{{< br >}}  |
-| 13 | Radiative transport | Hansen, and Kawaler. Sections 3.1-3.5 and 7.1-7.2. |
-| 14 |  {{< br >}}{{< br >}} Opacities {{< br >}}{{< br >}} Scaling laws {{< br >}}{{< br >}} Convection {{< br >}}{{< br >}}  | Hansen, and Kawaler. Sections 3.1-3.5 and 7.1-7.2. |
-| 15 |  {{< br >}}{{< br >}} Energy generation {{< br >}}{{< br >}} Coulomb penetration factor {{< br >}}{{< br >}}  | Hansen, and Kawaler. Sections 3.1-3.5 and 7.1-7.2. |
-| 16 | Nuclear "burning" in the sun and other stars | Hansen, and Kawaler. Sections 3.1-3.5 and 7.1-7.2. |
-| 17 | Evolution of stars of low, intermediate and high mass |  {{< br >}}{{< br >}} Clayton. Section 4.3 through equation (4-62). {{< br >}}{{< br >}} Hansen, and Kawaler. Sections 6.3-6.5. {{< br >}}{{< br >}}  |
-| 18 | Stellar atmospheres |  {{< br >}}{{< br >}} Clayton. Section 4.3 through equation (4-62). {{< br >}}{{< br >}} Hansen, and Kawaler. Sections 6.3-6.5. {{< br >}}{{< br >}}  |
-| 19 | Lines in stellar atmospheres |  {{< br >}}{{< br >}} Clayton. Section 4.3 through equation (4-62). {{< br >}}{{< br >}} Hansen, and Kawaler. Sections 6.3-6.5. {{< br >}}{{< br >}}  |
-| 20 | In-class exam | &nbsp; |
-| 21 | Introduction to the interstellar medium |  {{< br >}}{{< br >}} Clayton. Section 4.3 through equation (4-62). {{< br >}}{{< br >}} Hansen, and Kawaler. Sections 6.3-6.5. {{< br >}}{{< br >}} Bohm-Vitense. Vol. 2. Chapters 5, 6, and 10. {{< br >}}{{< br >}}  |
-| 22 | Photoionized nebulae (H II regions and planetaries) |  {{< br >}}{{< br >}} Clayton. Section 4.3 through equation (4-62). {{< br >}}{{< br >}} Hansen, and Kawaler. Section 6.3-6.5. {{< br >}}{{< br >}} Bohm-Vitense. Vol. 2. Chapters 5, 6, and 10. {{< br >}}{{< br >}}  |
-| 23 | Supernovae and shocks |  {{< br >}}{{< br >}} Clayton. Section 4.3 through equation (4-62). {{< br >}}{{< br >}} Hansen, and Kawaler. Sections 6.3-6.5. {{< br >}}{{< br >}} Bohm-Vitense. Vol. 2. Chapters 5, 6, and 10. {{< br >}}{{< br >}}  |
-| 24 | Adiabatic supernova shocks | Shu. _The Physics of Astrophysics, Volume II: Gas Dynamics_. Chapter 15 (pp. 214-217) and 17. |
-| 25 | Galaxy morphology | Binney, and Tremaine. Chapter 1 and section 3.1. |
-| 26 |  {{< br >}}{{< br >}} Quantifiable properties of galaxies {{< br >}}{{< br >}} Collisional relaxation times {{< br >}}{{< br >}}  | Binney, and Tremaine. Chapter 1 and section 3.1. |
-| 27 | Collisionless Boltzmann equation (cartesian) and its moments | Binney, and Tremaine. Chapter 4 through equation (4-45). |
-| 28 | Boltzmann and the 4 jeans equations (spherical) | Binney, and Tremaine. Chapter 4 through equation (4-45). |
-| 29 | Galaxy disks: Rotation and epicyclic motion | Binney, and Tremaine. Chapter 4 through equation (4-45). |
-| 30 | Galaxy models: Potentials, orbits, and distribution functions | Binney, and Tremaine. Chapter 4 through equation (4-45). |
-| 31 | Clusters of galaxies | Binney, and Tremaine. Chapter 4 through equation (4-45). |
-| 32 |  {{< br >}}{{< br >}} Evidence for the expansion and homegeneity of the universe {{< br >}}{{< br >}} Newtonian derivation of Friedmann universe {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Binney, and Tremaine. Chapter 10. {{< br >}}{{< br >}} _8.902 Notes on Cosmology._ Sections 3.1-3.3. {{< br >}}{{< br >}}  |
-| 33 | Galaxy formation |  {{< br >}}{{< br >}} Binney, and Tremaine. Chapter 10. {{< br >}}{{< br >}} _8.902 Notes on Cosmology._ Sections 3.1-3.3. {{< br >}}{{< br >}}  |
-| 34 | Friedman-Robertson-Walker metric |  {{< br >}}{{< br >}} Binney, and Tremaine. Chapter 10. {{< br >}}{{< br >}} _8.902 Notes on Cosmology._ Sections 3.1-3.3. {{< br >}}{{< br >}}  |
-| 35 | Friedman equation with radiation and other stuff |  {{< br >}}{{< br >}} Binney, and Tremaine. Chapter 10. {{< br >}}{{< br >}} _8.902 Notes on Cosmology._ Sections 3.1-3.3. {{< br >}}{{< br >}}  |
-| 36 | Supernovae and cosmic acceleration |  {{< br >}}{{< br >}} Binney, and Tremaine. Chapter 10. {{< br >}}{{< br >}} _8.902 Notes on Cosmology._ Sections 3.1-3.3. {{< br >}}{{< br >}}  |
-| 37 | Recombination and helium production |  {{< br >}}{{< br >}} Binney, and Tremaine. Chapter 10. {{< br >}}{{< br >}} _8.902 Notes on Cosmology._ Sections 3.1-3.3. {{< br >}}{{< br >}}  |
-| 38 | Fluctuations in the cosmic microwave background |  {{< br >}}{{< br >}} Binney, and Tremaine. Chapter 10. {{< br >}}{{< br >}} _8.902 Notes on Cosmology._ Sections 3.1-3.3. {{< br >}}{{< br >}}  |
-| &nbsp; | Final exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction
+
+Equatorial coordinates and sidereal time
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Mihalas, Dimitri, and James Binney. [_Galactic Astronomy_](http://www.seds.org/~spider/spider/ScholarX/coords.html). San Francisco, CA: W.H. Freeman, 1981, chapter 2. ISBN: 9780716712800.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Galactic coordinates
+
+Distances to stars
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Mihalas, Dimitri, and James Binney. [_Galactic Astronomy_](https://www.amazon.com/Galactic-Astronomy-Structure-Kinematics-Galaxies/dp/0716712806). San Francisco, CA: W.H. Freeman, 1981, chapter 2. ISBN: 9780716712800.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Magnitudes (apparent and absolute) and color indices
+{{< tdclose >}}
+{{< tdopen >}}
+Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay45/ay45toc.html). Chapters 2, 3.5, 4.1, and 4.2 through 4.2.5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Spectral classification
+
+The Kepler problem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay45/ay45toc.html). Chapters 2, 3.5, 4.1, and 4.2 through 4.2.5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Parametric solution to Kepler
+{{< tdclose >}}
+{{< tdopen >}}
+Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay45/ay45toc.html). Chapters 2, 3.5, 4.1, and 4.2 through 4.2.5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Masses of stars
+
+Mass radius relation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay45/ay45toc.html). Chapters 2, 3.5, 4.1, and 4.2 through 4.2.5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture: Mass measurements for exoplanets and our black hole
+{{< tdclose >}}
+{{< tdopen >}}
+Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay45/ay45toc.html). Chapters 2, 3.5, 4.1, and 4.2 through 4.2.5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture: Telescopes
+{{< tdclose >}}
+{{< tdopen >}}
+Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay45/ay45toc.html). Chapters 2, 3.5, 4.1 and 4.2 through 4.2.5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Polytropic stars
+{{< tdclose >}}
+{{< tdopen >}}
+Clayton. Sections 2-4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Classical and quantum statistics
+
+The Saha equation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Hansen, and Kawaler. Sections 7.1-7.2.2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Equations of state
+
+Application of Lane-Emden solution: White dwarfs
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hansen, and Kawaler. Sections 7.1-7.2.2.
+
+Clayton. Sections 2-4.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Simple results for the sun and other stars
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hansen, and Kawaler. Sections 7.1-7.2.2.
+
+Clayton. Sections 2-4.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Radiative transport
+{{< tdclose >}}
+{{< tdopen >}}
+Hansen, and Kawaler. Sections 3.1-3.5 and 7.1-7.2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Opacities
+
+Scaling laws
+
+Convection
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Hansen, and Kawaler. Sections 3.1-3.5 and 7.1-7.2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Energy generation
+
+Coulomb penetration factor
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Hansen, and Kawaler. Sections 3.1-3.5 and 7.1-7.2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear "burning" in the sun and other stars
+{{< tdclose >}}
+{{< tdopen >}}
+Hansen, and Kawaler. Sections 3.1-3.5 and 7.1-7.2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Evolution of stars of low, intermediate and high mass
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Clayton. Section 4.3 through equation (4-62).
+
+Hansen, and Kawaler. Sections 6.3-6.5.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Stellar atmospheres
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Clayton. Section 4.3 through equation (4-62).
+
+Hansen, and Kawaler. Sections 6.3-6.5.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Lines in stellar atmospheres
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Clayton. Section 4.3 through equation (4-62).
+
+Hansen, and Kawaler. Sections 6.3-6.5.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+In-class exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the interstellar medium
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Clayton. Section 4.3 through equation (4-62).
+
+Hansen, and Kawaler. Sections 6.3-6.5.
+
+Bohm-Vitense. Vol. 2. Chapters 5, 6, and 10.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Photoionized nebulae (H II regions and planetaries)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Clayton. Section 4.3 through equation (4-62).
+
+Hansen, and Kawaler. Section 6.3-6.5.
+
+Bohm-Vitense. Vol. 2. Chapters 5, 6, and 10.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Supernovae and shocks
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Clayton. Section 4.3 through equation (4-62).
+
+Hansen, and Kawaler. Sections 6.3-6.5.
+
+Bohm-Vitense. Vol. 2. Chapters 5, 6, and 10.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Adiabatic supernova shocks
+{{< tdclose >}}
+{{< tdopen >}}
+Shu. _The Physics of Astrophysics, Volume II: Gas Dynamics_. Chapter 15 (pp. 214-217) and 17.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Galaxy morphology
+{{< tdclose >}}
+{{< tdopen >}}
+Binney, and Tremaine. Chapter 1 and section 3.1.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quantifiable properties of galaxies
+
+Collisional relaxation times
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Binney, and Tremaine. Chapter 1 and section 3.1.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Collisionless Boltzmann equation (cartesian) and its moments
+{{< tdclose >}}
+{{< tdopen >}}
+Binney, and Tremaine. Chapter 4 through equation (4-45).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Boltzmann and the 4 jeans equations (spherical)
+{{< tdclose >}}
+{{< tdopen >}}
+Binney, and Tremaine. Chapter 4 through equation (4-45).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Galaxy disks: Rotation and epicyclic motion
+{{< tdclose >}}
+{{< tdopen >}}
+Binney, and Tremaine. Chapter 4 through equation (4-45).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Galaxy models: Potentials, orbits, and distribution functions
+{{< tdclose >}}
+{{< tdopen >}}
+Binney, and Tremaine. Chapter 4 through equation (4-45).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Clusters of galaxies
+{{< tdclose >}}
+{{< tdopen >}}
+Binney, and Tremaine. Chapter 4 through equation (4-45).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Evidence for the expansion and homegeneity of the universe
+
+Newtonian derivation of Friedmann universe
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Binney, and Tremaine. Chapter 10.
+
+_8.902 Notes on Cosmology._ Sections 3.1-3.3.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Galaxy formation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Binney, and Tremaine. Chapter 10.
+
+_8.902 Notes on Cosmology._ Sections 3.1-3.3.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Friedman-Robertson-Walker metric
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Binney, and Tremaine. Chapter 10.
+
+_8.902 Notes on Cosmology._ Sections 3.1-3.3.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Friedman equation with radiation and other stuff
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Binney, and Tremaine. Chapter 10.
+
+_8.902 Notes on Cosmology._ Sections 3.1-3.3.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Supernovae and cosmic acceleration
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Binney, and Tremaine. Chapter 10.
+
+_8.902 Notes on Cosmology._ Sections 3.1-3.3.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Recombination and helium production
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Binney, and Tremaine. Chapter 10.
+
+_8.902 Notes on Cosmology._ Sections 3.1-3.3.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+Fluctuations in the cosmic microwave background
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Binney, and Tremaine. Chapter 10.
+
+_8.902 Notes on Cosmology._ Sections 3.1-3.3.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
