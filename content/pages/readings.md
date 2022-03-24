@@ -21,7 +21,7 @@ Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay
 
 Shu, Frank H. _The Physical Universe_. Mill Valley, CA: University Science Books, 1982. ISBN: 9780935702057.
 
-Schechter, Paul. _8.902 Notes on Cosmology_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chap3_8902_notes))
+Schechter, Paul. _8.902 Notes on Cosmology_ ([PDF]({{< baseurl >}}/resources/chap3_8902_notes))
 
 Readings by Session
 -------------------
